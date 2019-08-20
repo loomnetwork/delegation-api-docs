@@ -5,7 +5,7 @@
 ## Base URL
 
 ```
-https://loom.games/api/delegation
+https://api.loom.games/delegation
 ```
 
 ## Endpoints
